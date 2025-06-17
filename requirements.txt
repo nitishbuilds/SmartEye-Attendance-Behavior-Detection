@@ -1,0 +1,5 @@
+# SmartEye: Attendance and Behavior Detection System
+# Phase 1 Requirements: Static Image-Based Attendance System
+
+opencv-python
+numpy

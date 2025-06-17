@@ -1,0 +1,23 @@
+SmartEye - Project Future Roadmap
+
+Phase 1: (Completed)
+- Real-time face recognition using webcam.
+- Attendance marking with time.
+- Sleeping detection placeholder (not fully implemented yet).
+- CSV file generation.
+
+ Phase 2: (Upcoming)
+- Add behavior detection (sleeping detection using body movement).
+- Check inactivity for 20 seconds and mark as sleeping.
+- Send email reports to manager/principal.
+
+Phase 3: (Upcoming)
+- Implement IP Camera support for CCTV use.
+- Add exam mode with electronic device detection.
+- Notification system if electronic device detected during exam.
+- 30-day attendance tracking and percentage calculation.
+- Dashboard integration.
+
+ Notes:
+- Phases can be updated and added to GitHub over time.
+- This roadmap will help track project evolution for resume.

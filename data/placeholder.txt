@@ -1,0 +1,20 @@
+# 📂 Placeholder for Face Image Data
+
+This folder is reserved for storing face images of students or employees for the SmartEye: Attendance and Behavior Detection System.
+
+Important Instructions:
+- Add face images in JPG or PNG format.
+- File names should be the person's name for accurate attendance recognition.
+  Example:
+  - John.png
+  - Alice.jpg
+- Ensure each image is a clear front-facing photo.
+
+Purpose:
+This folder is required for Phase 1: Face-Based Attendance Tracking.
+
+Note:
+- This file (placeholder.txt) is added to keep the data folder in the repository.
+- You can safely delete this file once you add the actual face images.
+
+Thank you for contributing to the SmartEye system.
